@@ -9,7 +9,7 @@
   -moz-box-sizing: border-box;
 }
 
-.clearfix:after {
+/*.clearfix:after {
   content: ".";
   display: block;
   clear: both;
@@ -20,8 +20,6 @@
 
 .clear {
   clear: both;
-}
+}*/
 
 /* Posititoning Classes */
-
-
